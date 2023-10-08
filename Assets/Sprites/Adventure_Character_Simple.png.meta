@@ -1,0 +1,2517 @@
+fileFormatVersion: 2
+guid: bfdd590130b4c334c8b0534a4d3aa5e2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 928
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899f2a64fae044a4da82012c1845413c
+      internalID: 733692623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 928
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43975ba9a195a7044ab854713849da68
+      internalID: 800279705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0ebc67e63a147489fdaf8badc8fe9f
+      internalID: 1744772985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 928
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a5f5cf2b027b64b8eb85ad97cbd1c1
+      internalID: -1513115000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 928
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598e8c433f51f5c4688df9adf082a8dc
+      internalID: 545703619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 928
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5005af1ed7b82b4b8fe794df0d91452
+      internalID: -1596547915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 880
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e11864f840982a40968258c3a85ebfe
+      internalID: 124962516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 880
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2821bc4fdace4b84c99e56faf6ce8092
+      internalID: 948303364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 880
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f19229dbe3aec4085dd7eb19d4421c
+      internalID: -1764638661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 880
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1761afb5c722c94a992759336d931d8
+      internalID: -752437062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 880
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7067ee3702b5847489f0f18bb9be1c75
+      internalID: -1111625120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_11
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 880
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3957cd4559fe84aa03b35098032119
+      internalID: -350529336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 832
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c437084ed2069e4fbeeb025a1673527
+      internalID: 1835879398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 833
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b111723b3e085ac4295a2ebf552175b9
+      internalID: 1159903571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 832
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c753e7638d9be8744a0592b0e2ea48ab
+      internalID: 1538606222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 832
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe6221e738475b43b77423e07ac49c8
+      internalID: 1843912515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 834
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25afdfab5639c84d96792c2d7b5bb3f
+      internalID: 1210139027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 833
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619ea3c99bbd0844c9e935695482f8cb
+      internalID: 936908798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 784
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5899c33bfbf834aba00ae1bcc04bdc
+      internalID: -632468524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 784
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff1f2987ee0b124fb6a63ea2d172657
+      internalID: -1987131109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 784
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f773ce961c8c9a6459e307579ab72a3e
+      internalID: 1817277882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 786
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b319659a53486b4e84fc249c8c15ce1
+      internalID: -350512208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 736
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad83d1e7883092d409120a797ddd1fea
+      internalID: 40009101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 736
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb0f73cacb691a4fa644f7b580693d4
+      internalID: 2126698779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_24
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 736
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4bb47d94762504a9a3dc9dd9c05a81
+      internalID: 629876145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 736
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c9a1566dc21dc45b8ec931cc29f83b
+      internalID: -1349006022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_26
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 688
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd1bc0b216a23b47aabaca98f71f333
+      internalID: -1816019713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_27
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 688
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a283cbcb791b88f4fb7168c56bc94644
+      internalID: 125926400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_28
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 688
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb548ce5209fbb549864dd144945f1be
+      internalID: 312998660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_29
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 688
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e4c839c0de449459877642b9d55090
+      internalID: 1743380000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_30
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 688
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406d56a3039d9d1498221a1d848f2a09
+      internalID: -1646344623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_31
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 640
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85ebeb7e2c88eb4d9a5e71a6291bf2b
+      internalID: -1053639594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_32
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 640
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52863f2488ecde1448652b1372390ff5
+      internalID: 515319098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 638
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b32dc5245c34a44b20e5554e9e7667
+      internalID: -1795278317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 638
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a54b6c2f6bae404ea220d37e7df1ba1
+      internalID: 1715371462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 638
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806c1e0433390f946b6756f68dc6307c
+      internalID: -1967683891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 591
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60692b491060cc14198a0a187bd4aa4d
+      internalID: 1459065693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 592
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ab795dbbbbf2b44b2dab6a311cee2f
+      internalID: -249650826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_38
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 592
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a83955e50e6e2943aa901e018211bed
+      internalID: 1107496662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_39
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 592
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ede8076313f1b4c83f024d05438cda
+      internalID: 1490784739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_40
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 592
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d94d195a4010a48a3ae135dd73514c
+      internalID: 721422849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_41
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 544
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7070878ca29d8304b81cf3146956b487
+      internalID: 1567487528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_42
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 544
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e0f9b05bf39f942a785feeb07b5b52
+      internalID: -947859767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_43
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 544
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a8b1d607a99b04abac3f3b89a295c5
+      internalID: 960352842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_44
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 544
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1673fa746757d4bb9ae490843ac464
+      internalID: -1902933551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_45
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 544
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1c829a54f872a46bcb562efa64faab
+      internalID: 1285938221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 496
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec3329193735864b826c97d6aa9d9ca
+      internalID: 1727624174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 496
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b774f823dfe9c45b3fc7ad1a01c1df
+      internalID: 1747705479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_48
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 496
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9272799d27455754d8727c03e94adf98
+      internalID: -1173316192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 496
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba76e7078e81a2246ad07bb9a2a347a0
+      internalID: -125936205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_50
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 496
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe7dff9c77786342a5ac43b7efac77e
+      internalID: 2113632447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 496
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b35171944bac364fa7761cbf930776c
+      internalID: -1815172890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_52
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 496
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51889d1461b6ce2499712b3f5e6656bd
+      internalID: 1483917631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_53
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 444
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9e7ce7b8273c6479aced6f6350123a
+      internalID: -1455484059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_54
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 441
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bd07ad6ff1d764bac754f0380d0b39
+      internalID: -692625936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_55
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 442
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef9230729cbef04383ad72533f51dee
+      internalID: 1237241611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd32aeb3aa4b07249b1ef6949188642a
+      internalID: 417791634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_58
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 448
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a04e5873ee48a42b0427a38263ee49
+      internalID: 1216121182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_59
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 448
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136dd6d591d55a748978680c07f2676b
+      internalID: -1262107668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_60
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 448
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024a187fa392f2947b0018f71d553872
+      internalID: 793602928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_61
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 448
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e6cc9f635bde547ab470b6e79d993f
+      internalID: 2010993006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_62
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 400
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022d8646885632d408c8b37723c551f2
+      internalID: 136857306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_63
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 400
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88cc891875784a4c90b50b33dd1bd23
+      internalID: 592706296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_64
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 400
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a6158a8efe2434d977ceb1ec2345c2
+      internalID: 384706676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_65
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 400
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d19accb58a8dc4b88045cd8d7d3332
+      internalID: 1285889090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_66
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 400
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368585abf13562241ac73a7307cafe13
+      internalID: -1295374411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_67
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 400
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd93ac19003e3b4e950d00c2ab55986
+      internalID: 590796859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_68
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 400
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f73bdb3fc60f647976b6a4c62f35b7
+      internalID: 1187195894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_69
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 400
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619283add124dfa479d61b0021ff4a92
+      internalID: 743243106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_70
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 349
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b7eb5cb4a056742816e71770f3e186
+      internalID: 1217430855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 349
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812610627a94f3b44adf4543f2f6d6fc
+      internalID: -1638988444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 349
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5e79509cec3bb49b6e994517329b63
+      internalID: 1788928096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_73
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 349
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d07996b26ba0d34fb7d51e2779c930c
+      internalID: -1935257508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_74
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 304
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b30aa9fc1644048a11373d5bd2c42d
+      internalID: -563992380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_75
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 304
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f5e0b61bf45b148941e381ddfadf16
+      internalID: 1362354872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_76
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 304
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd62fa3d44f075e4f93a2abac910c62f
+      internalID: 1627657874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_77
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 304
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22d933fc8a761e4ab335b16fc3e7413
+      internalID: -1426906986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 256
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bd8b0e9ba08114d9522040c21a2c03
+      internalID: 794225896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_79
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 256
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ae22812cc3b0f458dd6bd19ada3628
+      internalID: -1384986968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_80
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 256
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68de36e8f7a43954fa5afb246a858848
+      internalID: 1892028940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_81
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 256
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2359223a6b93bdc4bb4267ede1d8f581
+      internalID: 1307421397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_82
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 208
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d78e2cbb2725147b3dbb34bbfdb8ce
+      internalID: 1630931203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_83
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 208
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66f202ef4da62f4ebb8413ead9af3f4
+      internalID: 208537600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_84
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 208
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fb0099c2613844bbefe3780743a080
+      internalID: -1009801644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_85
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 208
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abf1f8454a01204abf47aac6187e6a0
+      internalID: -1778220544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_86
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 160
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fef0e89364cccf4ab5f5e18b3ed2e3c
+      internalID: 1746344790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_87
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 160
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e2b2d6c1de86e42b98bef44b115172
+      internalID: 1719146823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_88
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 160
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a316b7cc5691b409c1447a2d1534d4
+      internalID: 646059129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_89
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 160
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf0b606a08478b4f8c6191d7aff3fc2
+      internalID: -910076788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_90
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 160
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01480b824ab5cdb48b908b20e57f2ba0
+      internalID: -1046147342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_91
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 160
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cecce4969399448aceed45c483166e
+      internalID: 2035088533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_92
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5e0191f7a66cf46a8894b7d65dcdc0
+      internalID: -617511808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff0a5a485d4e074eb73dc50c1ee5227
+      internalID: 1229710714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_94
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 112
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e3c9435b16938419571c2757da7dd9
+      internalID: -568624470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_95
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 112
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f289b3804314045a0a760f4414e8b8
+      internalID: 180982632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_96
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 112
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f2134fccd829042a9a8c9040425945
+      internalID: -804955167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_97
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 112
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738428e8ac149064fa55a98113fae8e1
+      internalID: 1327900427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2368f63a7c0dbbd4fb671aa78d7f5f70
+      internalID: 1699761158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_99
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 64
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfbf1728719bae428031ea4f8439fbf
+      internalID: -1390721643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_100
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 64
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b399faec60036a54b89e83b3cad101d5
+      internalID: -1197679366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_101
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 64
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974dcb6afbbc02c4f930ebb9751ffb40
+      internalID: -1777978946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_102
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 16
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292639dd9f6426a448407296ea51f857
+      internalID: -337036551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2de486adae665241aa10d60cc145b35
+      internalID: 404637235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_104
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 16
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789b1df717d59ac429c4cc490f6996e0
+      internalID: -2106766848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_105
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 16
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e3e28841a8afd44bc3835d72838df3
+      internalID: -2833945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_106
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 16
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb372ac77b59c194e869d975c41afca9
+      internalID: -775450434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd3c5acf39c2fa44842ca8436ad8ce7
+      internalID: 2018508648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventure_Character_Simple_108
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 16
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f110c3484ce1f1446a1fa05e0c9fa2bb
+      internalID: 2096408361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Adventure_Character_Simple_0: 733692623
+      Adventure_Character_Simple_1: 800279705
+      Adventure_Character_Simple_10: -1111625120
+      Adventure_Character_Simple_100: -1197679366
+      Adventure_Character_Simple_101: -1777978946
+      Adventure_Character_Simple_102: -337036551
+      Adventure_Character_Simple_103: 404637235
+      Adventure_Character_Simple_104: -2106766848
+      Adventure_Character_Simple_105: -2833945
+      Adventure_Character_Simple_106: -775450434
+      Adventure_Character_Simple_107: 2018508648
+      Adventure_Character_Simple_108: 2096408361
+      Adventure_Character_Simple_11: -350529336
+      Adventure_Character_Simple_12: 1835879398
+      Adventure_Character_Simple_13: 1159903571
+      Adventure_Character_Simple_14: 1538606222
+      Adventure_Character_Simple_15: 1843912515
+      Adventure_Character_Simple_16: 1210139027
+      Adventure_Character_Simple_17: 936908798
+      Adventure_Character_Simple_18: -632468524
+      Adventure_Character_Simple_19: -1987131109
+      Adventure_Character_Simple_2: 1744772985
+      Adventure_Character_Simple_20: 1817277882
+      Adventure_Character_Simple_21: -350512208
+      Adventure_Character_Simple_22: 40009101
+      Adventure_Character_Simple_23: 2126698779
+      Adventure_Character_Simple_24: 629876145
+      Adventure_Character_Simple_25: -1349006022
+      Adventure_Character_Simple_26: -1816019713
+      Adventure_Character_Simple_27: 125926400
+      Adventure_Character_Simple_28: 312998660
+      Adventure_Character_Simple_29: 1743380000
+      Adventure_Character_Simple_3: -1513115000
+      Adventure_Character_Simple_30: -1646344623
+      Adventure_Character_Simple_31: -1053639594
+      Adventure_Character_Simple_32: 515319098
+      Adventure_Character_Simple_33: -1795278317
+      Adventure_Character_Simple_34: 1715371462
+      Adventure_Character_Simple_35: -1967683891
+      Adventure_Character_Simple_36: 1459065693
+      Adventure_Character_Simple_37: -249650826
+      Adventure_Character_Simple_38: 1107496662
+      Adventure_Character_Simple_39: 1490784739
+      Adventure_Character_Simple_4: 545703619
+      Adventure_Character_Simple_40: 721422849
+      Adventure_Character_Simple_41: 1567487528
+      Adventure_Character_Simple_42: -947859767
+      Adventure_Character_Simple_43: 960352842
+      Adventure_Character_Simple_44: -1902933551
+      Adventure_Character_Simple_45: 1285938221
+      Adventure_Character_Simple_46: 1727624174
+      Adventure_Character_Simple_47: 1747705479
+      Adventure_Character_Simple_48: -1173316192
+      Adventure_Character_Simple_49: -125936205
+      Adventure_Character_Simple_5: -1596547915
+      Adventure_Character_Simple_50: 2113632447
+      Adventure_Character_Simple_51: -1815172890
+      Adventure_Character_Simple_52: 1483917631
+      Adventure_Character_Simple_53: -1455484059
+      Adventure_Character_Simple_54: -692625936
+      Adventure_Character_Simple_55: 1237241611
+      Adventure_Character_Simple_56: 332113901
+      Adventure_Character_Simple_57: 417791634
+      Adventure_Character_Simple_58: 1216121182
+      Adventure_Character_Simple_59: -1262107668
+      Adventure_Character_Simple_6: 124962516
+      Adventure_Character_Simple_60: 793602928
+      Adventure_Character_Simple_61: 2010993006
+      Adventure_Character_Simple_62: 136857306
+      Adventure_Character_Simple_63: 592706296
+      Adventure_Character_Simple_64: 384706676
+      Adventure_Character_Simple_65: 1285889090
+      Adventure_Character_Simple_66: -1295374411
+      Adventure_Character_Simple_67: 590796859
+      Adventure_Character_Simple_68: 1187195894
+      Adventure_Character_Simple_69: 743243106
+      Adventure_Character_Simple_7: 948303364
+      Adventure_Character_Simple_70: 1217430855
+      Adventure_Character_Simple_71: -1638988444
+      Adventure_Character_Simple_72: 1788928096
+      Adventure_Character_Simple_73: -1935257508
+      Adventure_Character_Simple_74: -563992380
+      Adventure_Character_Simple_75: 1362354872
+      Adventure_Character_Simple_76: 1627657874
+      Adventure_Character_Simple_77: -1426906986
+      Adventure_Character_Simple_78: 794225896
+      Adventure_Character_Simple_79: -1384986968
+      Adventure_Character_Simple_8: -1764638661
+      Adventure_Character_Simple_80: 1892028940
+      Adventure_Character_Simple_81: 1307421397
+      Adventure_Character_Simple_82: 1630931203
+      Adventure_Character_Simple_83: 208537600
+      Adventure_Character_Simple_84: -1009801644
+      Adventure_Character_Simple_85: -1778220544
+      Adventure_Character_Simple_86: 1746344790
+      Adventure_Character_Simple_87: 1719146823
+      Adventure_Character_Simple_88: 646059129
+      Adventure_Character_Simple_89: -910076788
+      Adventure_Character_Simple_9: -752437062
+      Adventure_Character_Simple_90: -1046147342
+      Adventure_Character_Simple_91: 2035088533
+      Adventure_Character_Simple_92: -617511808
+      Adventure_Character_Simple_93: 1229710714
+      Adventure_Character_Simple_94: -568624470
+      Adventure_Character_Simple_95: 180982632
+      Adventure_Character_Simple_96: -804955167
+      Adventure_Character_Simple_97: 1327900427
+      Adventure_Character_Simple_98: 1699761158
+      Adventure_Character_Simple_99: -1390721643
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
